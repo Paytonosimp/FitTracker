@@ -13,10 +13,18 @@
 - [x] Create user_data.py
 - [x] Add docstrings and comments to tracker.py
 - [ ] Test tracker.py with sample data - IN PROGRESS
+- [x] Add input validation for all number inputs
+- [x] Add timestamps to logged workouts and meals
+- [x] Add delete feature for workouts
+- [x] Add delete feature for meals
+- [x] Add error handling for corrupted JSON files
+- [x] Improve summary output to show timestamps
 
 ## Emerging Tasks
 - [ ] Add persistent storage (e.g., save to file)
-- [ ] Build simple command-line interface    
+- [ ] Build simple command-line interface  
+- [x] Improve UI messages
+- [x] Consider adding weekly summary  
 
 # Sprint 3:
 - [ ] Create slide presentation.
@@ -24,3 +32,4 @@
 
 #Present
 - [ ] Present powerpoint.
+ 
