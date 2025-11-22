@@ -22,3 +22,4 @@ def load_data(filepath='data.json'):
     except FileNotFoundError:
         print(" No existing data found. Starting fresh.")
         print("Testing commit")
+        print("Testing commit")
